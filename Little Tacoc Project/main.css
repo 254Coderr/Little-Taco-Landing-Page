@@ -19,14 +19,15 @@ td, th {
     padding: 0.5rem;
   }
 table {
-    border-collapse: collapse;
+  width: 100%;
+    border-collapse: separate;
 }
 .element {
     width: 100%;
   
   }
 
-  /* Adjust the styling for different screen sizes */
+  /* Adjust the styling for different screen sizes*/
   @media (min-width: 600px) {
     .element {
       width: 50%;
@@ -37,3 +38,4 @@ table {
       width: 33.33%;
     }
   }
+  
