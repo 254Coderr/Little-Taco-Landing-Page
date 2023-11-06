@@ -7,7 +7,6 @@
   --visited-color: rgb(31, 150, 110);
   --hover-color: rgb(252, 29, 13);
 }
-
 /*  CSS variables on page */
 html {
   font-size: var(--font-size);
