@@ -21,6 +21,7 @@
   }
   header {
     text-align: center;
+    color: rgb(236, 225, 18);
   }
   nav {
     text-align: center;
@@ -51,7 +52,8 @@
   }
   
   td, th {
-    border: 1px solid var(--border-color);
+    border: 3px solid var(--border-color);
+    border-color: rgb(171, 14, 243);
     padding: var(--padding);
   }
   
