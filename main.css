@@ -15,8 +15,12 @@
   body {
     margin: 0;
     width: 100%;
-    background-color: hwb(180 92% 7%);
+    background-color: hwb(180 24% 25%);
     color: black;
+ 
+  }
+  header {
+    text-align: center;
   }
   
   a {
